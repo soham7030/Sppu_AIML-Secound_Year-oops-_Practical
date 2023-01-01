@@ -1,0 +1,86 @@
+/*
+output
+1 : Add Records
+2 : Display Records
+3 : Clear All Records
+4 : Exit
+Your Choice : 1
+
+Enter name: Soham
+Father's Name: Santosh
+Mother's Name: Mayuri
+Address: At Chopdaj Tal Baramati Dist Pune 412306
+Class: S.E (AIML)
+Date of Birth (dd/mm/yy) : 03/11/2002
+Age: 20
+Telephone No.: 7030****80
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : y
+
+
+Enter name: Om
+Father's Name: Sachin
+Mother's Name: Rupali
+Address: Baramati
+Class: 10th
+Date of Birth (dd/mm/yy) : 03/06/2009
+Age: 16
+Telephone No.: 986****68
+
+Records added successfully !
+
+Do you want to add more records ? (y/n) : n
+1 : Add Records
+2 : Display Records
+3 : Clear All Records
+4 : Exit
+
+Your Choice : 2
+S.No. : 1
+-------------
+
+Name: Soham
+Father's Name : Pawar
+Mother's Name : 1
+Address: 67867
+Class: e4
+Date of Birth : 6456
+Age: 5445
+Tel. No.: 746
+
+S.No. : 2
+-------------
+
+Name: Soham
+Father's Name : Santosh
+Mother's Name : Mayuri
+Address: At Chopdaj Tal Baramati Dist Pune 412306
+Class: S.E (AIML)
+Date of Birth : 03/11/2002
+Age: 20
+Tel. No.: 7030806080
+
+S.No. : 3
+-------------
+
+Name: Om
+Father's Name : Sachin
+Mother's Name : Rupali
+Address: Baramati
+Class: 10th
+Date of Birth : 03/06/2009
+Age: 16
+Tel. No.: 9860900268
+
+1 : Add Records
+2 : Display Records
+3 : Clear All Records
+4 : Exit
+
+Your Choice : 4 
+
+Exit The Program....
+
+*/

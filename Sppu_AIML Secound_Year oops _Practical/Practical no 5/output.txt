@@ -1,0 +1,19 @@
+
+
+
+/*	 
+ Output:
+
+Gear Change of bicycle
+Speedup of Bicycle
+apply breaks of bicycle
+Gear Change of bike
+Speedup of Bike
+apply breaks of bike
+Gear Change of car
+Speedup of car
+apply breaks of car
+
+
+*/
+ 

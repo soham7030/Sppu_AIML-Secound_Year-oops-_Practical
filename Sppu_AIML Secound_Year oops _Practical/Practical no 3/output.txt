@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+/*Output:
+
+Name: Soham Pawar
+basic salary: 50000.0
+Gross Salary: 97450.0
+Name: Vishal Narawade
+basic salary: 70000.0
+Gross Salary: 136430.0
+Name: Vikrant Kothambire
+basic salary: 80000.0
+Gross Salary: 155920.0
+Name: Manthan Vaidhya
+basic salary: 80000.0
+Gross Salary: 155920.0
+
+*/

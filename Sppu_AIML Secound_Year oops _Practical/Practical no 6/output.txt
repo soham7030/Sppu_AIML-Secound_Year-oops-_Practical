@@ -1,0 +1,14 @@
+
+
+/* 
+Output :
+Enter First number :35
+Enter second number:0
+Denominetor is Zerojava.lang.ArithmeticException: / by zero
+
+
+Array Index Out of Bond :
+Enter First number :10
+Enter second number:5
+Division :2
+*/

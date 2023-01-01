@@ -1,0 +1,9 @@
+
+
+/* 
+output : 
+Total Even:4
+Total Odd:5
+Total Prime:4
+Total Palindrome:1
+*/

@@ -1,0 +1,16 @@
+
+
+/*
+
+Output:
+Enter The Book Of Copies
+35
+Total Sale Of Book : 5250
+Enter The Magazine Copies
+
+35
+Order Sucessfully!!You have Orderd :35copies
+Orederd Dispached In Two Days!!
+Total Sale Of Magazine 15750
+
+*/

@@ -1,0 +1,17 @@
+
+
+/*Output:
+
+
+Enter First no
+34
+Enter Secound no
+33
+area of triangle is 561.0
+Enter First no
+53
+Enter Secound no
+32
+area of rectangle is 1696.0
+ 
+*/	

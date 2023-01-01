@@ -1,0 +1,13 @@
+
+
+OUTPUT:
+
+/*Enter the real and imaginary part of first no.
+45
+45
+Enter the real and imaginary part of Second Number
+78
+97
+Answer is:(123.0) + (142.0)i
+
+*/
